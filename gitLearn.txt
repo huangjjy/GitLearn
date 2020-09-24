@@ -1,4 +1,8 @@
 helloworld
 this is remote motify---huangjjy
 this is second modify---huangjjy
+<<<<<<< HEAD
 this is master branch---remote huangjjy
+=======
+this is p148v02 branch--huangjjy local
+>>>>>>> 504389c44e191ffc2a1ccba32edfefd5b9ea3b4f
